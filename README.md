@@ -43,7 +43,7 @@ I'm a **student** from **Brazil** and I'm currently **15 years old**.
 ![REACT Badge](https://img.shields.io/badge/%E2%80%8B-REACT-blueviolet?style=for-the-badge&logo=react)
 
 <!-- Stats -->
-<br>
+<br><br>
 <div id="stats"></div>
 
 ## Stats
