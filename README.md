@@ -29,6 +29,8 @@ I'm a **student** from **Brazil** and I'm currently **15 years old**.
 
 ## Coding Languages
 
+<p style="text-align: center;">
+
 ![Python Badge](https://img.shields.io/badge/%E2%80%8B-PYTHON-blueviolet?style=for-the-badge&logo=PYTHON)
 ![C Badge](https://img.shields.io/badge/%E2%80%8B-C-blueviolet?style=for-the-badge&logo=C)
 ![C++ Badge](https://img.shields.io/badge/%E2%80%8B-C++-blueviolet?style=for-the-badge&logo=c%2B%2B)
@@ -42,6 +44,8 @@ I'm a **student** from **Brazil** and I'm currently **15 years old**.
 ![RUST Badge](https://img.shields.io/badge/%E2%80%8B-RUST-blueviolet?style=for-the-badge&logo=rust)
 ![REACT Badge](https://img.shields.io/badge/%E2%80%8B-REACT-blueviolet?style=for-the-badge&logo=react)
 
+</p>
+    
 <!-- Stats -->
 <br>
 <br>
