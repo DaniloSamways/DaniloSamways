@@ -49,9 +49,9 @@ I'm a **student** from **Brazil** and I'm currently **15 years old**.
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawezofficial&layout=compact&bg_color=151515&text_color=9E9E9E&border-color=8A2BE2&title_color=8A2BE2)](https://github.com/dawezofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosamways&layout=compact&bg_color=151515&text_color=9E9E9E&border-color=8A2BE2&title_color=8A2BE2)](https://github.com/danilosamways/github-readme-stats)
 
-![Danilo Samways' GitHub stats](https://github-readme-stats.vercel.app/api?username=dawezofficial&show_icons=true&layout=compact&bg_color=151515&text_color=9E9E9E&border-color=8A2BE2&title_color=9E9E9E&icon_color=8A2BE2)
+![Danilo Samways' GitHub stats](https://github-readme-stats.vercel.app/api?username=danilosamways&show_icons=true&layout=compact&bg_color=151515&text_color=9E9E9E&border-color=8A2BE2&title_color=9E9E9E&icon_color=8A2BE2)
 
 <br>
 <br>
