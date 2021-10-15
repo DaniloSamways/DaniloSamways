@@ -43,12 +43,13 @@ I'm a **student** from **Brazil** and I'm currently **15 years old**.
 ![REACT Badge](https://img.shields.io/badge/%E2%80%8B-REACT-blueviolet?style=for-the-badge&logo=react)
 
 <!-- Stats -->
-<br><br>
+<br>
+<br>
 <div id="stats"></div>
 
 ## Stats
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biguelini&layout=compact&bg_color=151515&text_color=9E9E9E&border-color=8A2BE2&title_color=8A2BE2)](https://github.com/dawezofficial/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawezofficial&layout=compact&bg_color=151515&text_color=9E9E9E&border-color=8A2BE2&title_color=8A2BE2)](https://github.com/dawezofficial/github-readme-stats)
 
 ![Danilo Samways' GitHub stats](https://github-readme-stats.vercel.app/api?username=dawezofficial&show_icons=true&layout=compact&bg_color=151515&text_color=9E9E9E&border-color=8A2BE2&title_color=9E9E9E&icon_color=8A2BE2)
 
