@@ -13,7 +13,7 @@
 
 ### Hi, I'm **Danilo** and this is my **official GitHub** profile! 👋
 
-I'm a **student** from **Brazil** and I'm currently **15 years old**.
+I'm a **student** from **Brazil** and I'm currently **16 years old**.
 
 - 🌱 Currently, I'm learning Rust, React and MongoDB; 
 - 💻 My main languages are PHP, Rust, JavaScript;
