@@ -15,8 +15,8 @@
 
 I'm a **student** from **Brazil** and I'm currently **16 years old**.
 
-- 🌱 Currently, I'm learning Rust, React and MongoDB; 
-- 💻 My main languages are PHP, Rust, JavaScript;
+- 🌱 Currently, I'm learning Next, React and Prisma; 
+- 💻 My main languages are JavaScript, TypeScript, SQL;
 - 📫 **How to reach me:**<br><br>
     - ![Instagram Badge](https://img.shields.io/badge/-@danilo.samw-8A2BE2?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/danilo.samw/)<br>
     - ![Gmail Badge](https://img.shields.io/badge/-hadeflowing@gmail.com-8A2BE2?style=flat-square&labelColor=E1306C&logo=gmail&logoColor=white&link=mailto:hadeflowing@gmail.com)
