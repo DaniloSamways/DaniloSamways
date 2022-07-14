@@ -49,7 +49,7 @@ I'm a **student** from **Brazil** and I'm currently **16 years old**.
     
     
 <br>
-<div id="certificates" style="display: flex">
+<div id="certificates" style="display: flex; justify-content: center; align-items: center;">
 
 
 ## Certificates
@@ -77,9 +77,3 @@ I'm a **student** from **Brazil** and I'm currently **16 years old**.
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosamways&layout=compact&bg_color=151515&text_color=9E9E9E&border-color=8A2BE2&title_color=8A2BE2)](https://github.com/danilosamways/github-readme-stats)
-
-![Danilo Samways' GitHub stats](https://github-readme-stats.vercel.app/api?username=danilosamways&show_icons=true&layout=compact&bg_color=151515&text_color=9E9E9E&border-color=8A2BE2&title_color=9E9E9E&icon_color=8A2BE2)
-
-<br>
-<br>
-<img src="https://portalrondon.com.br/wp-content/uploads/2021/07/giphy.gif">
