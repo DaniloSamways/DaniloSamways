@@ -3,7 +3,7 @@
 <!-- Header -->
 <p align="center">
     <a href="#about_me">About Me</a> •
-    <a href="#langs">Languages</a> •
+    <a href="#stack">My Stack</a> •
     <a href="#certificates">Certificates</a> •
     <a href="#stats">Stats</a> 
 </p>
@@ -17,39 +17,38 @@
 I'm a **student** from **Brazil** and I'm currently **16 years old**.
 
 - 🌱 Currently, I'm learning Next, React and Prisma; 
-- 💻 My main languages are JavaScript, TypeScript, SQL;
 - 📫 **How to reach me:**<br><br>
     - ![Instagram Badge](https://img.shields.io/badge/-@danilo.samw-8A2BE2?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/danilo.samw/)<br>
     - ![Gmail Badge](https://img.shields.io/badge/-hadeflowing@gmail.com-8A2BE2?style=flat-square&labelColor=E1306C&logo=gmail&logoColor=white&link=mailto:hadeflowing@gmail.com)
 
 > "Experience is the name everyone gives to their mistakes" <br> - Oscar Wilde
 
-<!-- Coding Languages -->
+<!-- My Stack -->
 <br>
-<div id="langs"></div>
+<div id="stack"></div>
 
-## Coding Languages
+## My Stack
 
-<p style="text-align: center;">
+<div align="center">
 
-![Python Badge](https://img.shields.io/badge/%E2%80%8B-PYTHON-blueviolet?style=for-the-badge&logo=PYTHON)
-![C Badge](https://img.shields.io/badge/%E2%80%8B-C-blueviolet?style=for-the-badge&logo=C)
-![C++ Badge](https://img.shields.io/badge/%E2%80%8B-C++-blueviolet?style=for-the-badge&logo=c%2B%2B)
-![HTML Badge](https://img.shields.io/badge/%E2%80%8B-HTMl-blueviolet?style=for-the-badge&logo=html5)
-![CSS Badge](https://img.shields.io/badge/%E2%80%8B-CSS-blueviolet?style=for-the-badge&logo=css3)
-![JAVA Badge](https://img.shields.io/badge/%E2%80%8B-JAVA-blueviolet?style=for-the-badge&logo=JAVA)
-![JAVASCRIPT Badge](https://img.shields.io/badge/%E2%80%8B-JAVASCRIPT-blueviolet?style=for-the-badge&logo=JAVASCRIPT)
-![PHP Badge](https://img.shields.io/badge/%E2%80%8B-PHP-blueviolet?style=for-the-badge&logo=PHP)
-![MONGODB Badge](https://img.shields.io/badge/%E2%80%8B-MONGODB-blueviolet?style=for-the-badge&logo=MONGODB)
-![MYSQL Badge](https://img.shields.io/badge/%E2%80%8B-MYSQL-blueviolet?style=for-the-badge&logo=MYSQL)
-![RUST Badge](https://img.shields.io/badge/%E2%80%8B-RUST-blueviolet?style=for-the-badge&logo=rust)
-![REACT Badge](https://img.shields.io/badge/%E2%80%8B-REACT-blueviolet?style=for-the-badge&logo=react)
+<a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>&nbsp;&nbsp;
+<a href="#"><img src="(https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>&nbsp;&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"></a>&nbsp;&nbsp;
 
-</p>
+
+</div>
     
     
 <br>
-<div id="certificates" style="display: flex; text-align: center">
+<div id="certificates" align="center">
 
 
 ## Certificates
