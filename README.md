@@ -49,10 +49,12 @@ I'm a **student** from **Brazil** and I'm currently **16 years old**.
     
     
 <br>
-<div id="certificates" style="display: flex; justify-content: center; align-items: center;">
+<div id="certificates" style="display: flex; text-align: center">
 
 
 ## Certificates
+
+<p>Click on the certificates to download them</p>
 
 <a href="https://github.com/DaniloSamways/DaniloSamways/files/9114793/discover-conectar-certificate.pdf">
     <img src="https://user-images.githubusercontent.com/55723423/179067791-3ff067ac-e42f-4f57-ba24-bb7dac74a5a0.png" width="330">
