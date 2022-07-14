@@ -4,7 +4,8 @@
 <p align="center">
     <a href="#about_me">About Me</a> •
     <a href="#langs">Languages</a> •
-    <a href="#stats">Stats</a>
+    <a href="#certificates">Certificates</a> •
+    <a href="#stats">Stats</a> 
 </p>
 
 
@@ -46,10 +47,32 @@ I'm a **student** from **Brazil** and I'm currently **16 years old**.
 
 </p>
     
+    
+<br>
+<div id="certificates" style="display: flex">
+
+
+## Certificates
+
+<a href="https://github.com/DaniloSamways/DaniloSamways/files/9114793/discover-conectar-certificate.pdf">
+    <img src="https://user-images.githubusercontent.com/55723423/179067791-3ff067ac-e42f-4f57-ba24-bb7dac74a5a0.png" width="330">
+</a>
+
+<a href="https://github.com/DaniloSamways/DaniloSamways/files/9114761/discover-fundamentar-certificate.pdf">
+    <img src="https://user-images.githubusercontent.com/55723423/179068800-37853cd5-0ff5-4878-8174-07e14410c3b1.png" width="330">
+</a>
+
+<a href="https://github.com/DaniloSamways/DaniloSamways/files/9114769/discover-especializar-certificate.pdf">
+    <img src="https://user-images.githubusercontent.com/55723423/179068386-fcaa377c-5422-4149-b1ba-d5212fd96d1f.png" width="330">
+</a>
+
+</div>
+
 <!-- Stats -->
 <br>
 <br>
 <div id="stats"></div>
+
 
 ## Stats
 
