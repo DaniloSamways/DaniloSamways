@@ -1,4 +1,7 @@
 # <h1 align="center">Danilo Samways</h1>
+<p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=DaniloSamways.DaniloSamways??style=for-the-badge&logo=appveyor">
+</p>
 
 <!-- Header -->
 <p align="center">
