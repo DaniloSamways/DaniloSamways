@@ -17,7 +17,7 @@
 
 ### Hi, I'm **Danilo** and this is my **official GitHub** profile! 👋
 
-I'm a **Software Engineer student** from **Brazil** and I'm currently **18 years old**.
+I'm a **Software Engineer student** from **Brazil** and I'm currently **19 years old**.
 
 - 🌱 Currently, I'm learning Next and Nestjs; 
 - 📫 **How to reach me:**<br><br>
