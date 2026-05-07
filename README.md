@@ -1,7 +1,4 @@
 # <h1 align="center">Danilo Samways</h1>
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=DaniloSamways.DaniloSamways??style=for-the-badge&logo=appveyor">
-</p>
 
 <!-- Header -->
 <p align="center">
@@ -17,12 +14,12 @@
 
 ### Hi, I'm **Danilo** and this is my **official GitHub** profile! 👋
 
-I'm a **Software Engineer student** from **Brazil** and I'm currently **19 years old**.
+I'm a **Backend Software Engineer** from **Brazil** and I'm currently **20 years old**.
 
 - 🌱 Currently, I'm learning Next and Nestjs; 
 - 📫 **How to reach me:**<br><br>
-    - ![Instagram Badge](https://img.shields.io/badge/-@danilo.samw-8A2BE2?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/danilo.samw/)<br>
-    - ![Gmail Badge](https://img.shields.io/badge/-danilosamways55@gmail.com-8A2BE2?style=flat-square&labelColor=E1306C&logo=gmail&logoColor=white&link=mailto:danilosamways55@gmail.com)
+    - ![Instagram Badge](https://img.shields.io/badge/LinkedIn-DaniloSamways-8A2BE2?style=flat-square&labelColor=E1306C&link=https://www.linkedin.com/in/danilo-samways)<br>
+    - ![LinkedIn Badge](https://img.shields.io/badge/-danilosamways55@gmail.com-8A2BE2?style=flat-square&labelColor=E1306C&logo=gmail&logoColor=white&link=mailto:danilosamways55@gmail.com)
 
 > "Experience is the name everyone gives to their mistakes" <br> - Oscar Wilde
 
@@ -71,13 +68,3 @@ I'm a **Software Engineer student** from **Brazil** and I'm currently **19 years
 </a>
 
 </div>
-
-<!-- Stats -->
-<br>
-<br>
-<div id="stats"></div>
-
-
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosamways&layout=compact&bg_color=151515&text_color=9E9E9E&border-color=8A2BE2&title_color=8A2BE2)](https://github.com/danilosamways/github-readme-stats)
