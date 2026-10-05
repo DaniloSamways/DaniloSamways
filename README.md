@@ -16,7 +16,6 @@
 
 I'm a **Backend Software Engineer** from **Brazil** and I'm currently **20 years old**.
 
-- 🌱 Currently, I'm learning Next and Nestjs; 
 - 📫 **How to reach me:**<br><br>
     - ![Instagram Badge](https://img.shields.io/badge/LinkedIn-DaniloSamways-8A2BE2?style=flat-square&labelColor=E1306C&link=https://www.linkedin.com/in/danilo-samways)<br>
     - ![LinkedIn Badge](https://img.shields.io/badge/-danilosamways55@gmail.com-8A2BE2?style=flat-square&labelColor=E1306C&logo=gmail&logoColor=white&link=mailto:danilosamways55@gmail.com)
